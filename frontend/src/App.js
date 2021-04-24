@@ -1,9 +1,16 @@
+import React from 'react';
+
+import NewBill from './components/NewBill/NewBill';
+import Bills from './components/Bills/Bills';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-    Energy Manager Platform
+      <div>Energy Manager Platform</div>
+      <div><NewBill /></div>
+      <div><Bills /></div>
     </div>
   );
 }
