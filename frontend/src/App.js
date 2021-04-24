@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Header from './components/UI/Header';
-import LeftSideBar from './components/UI/LeftSideBar';
-import Main from './components/UI/Main';
-import Footer from './components/UI/Footer';
+import Header from './components/layout/Header';
+import LeftSideBar from './components/layout/LeftSideBar';
+import Main from './components/layout/Main';
+import Footer from './components/layout/Footer';
 
 
 
