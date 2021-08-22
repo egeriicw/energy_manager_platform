@@ -5,8 +5,6 @@ import LeftSideBar from './components/layout/LeftSideBar';
 import Main from './components/layout/Main';
 import Footer from './components/layout/Footer';
 
-
-
 import './App.css';
 
 function App() {
